@@ -1,7 +1,5 @@
 # srv-lookup 
-![npm](https://img.shields.io/npm/v/srv-lookup)
-
-### 🏠 [Homepage](https://github.com/emilrowland/srv-lookup#readme)
+![npm](https://img.shields.io/npm/v/srv-lookup)(https://www.npmjs.com/package/srv-lookup) 
 
 ## Install
 
